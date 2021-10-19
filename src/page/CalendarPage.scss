@@ -1,0 +1,9 @@
+.calendar {
+  &--container {
+    display: flex;
+    flex-direction: row;
+    border: 1px solid red;
+    margin: auto;
+    height: 80vhmin;
+  }
+}

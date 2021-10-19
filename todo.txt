@@ -1,0 +1,10 @@
+1. app setup + ts + scss
+2. test env
+3. routes
+4. api consumption
+5. design the view
+6. responsive
+7. story book setup
+8. base components
+9. read data and load component
+10. store events and data locally
